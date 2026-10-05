@@ -1,4 +1,8 @@
-# Step 2 — API Key
+# Step 2 — API Key (usually skip this)
+
+**You don't need an API key if you log in to Claude Code with your Claude account** (Pro or Max). That's what the beginner guide does, and it covers everything, including the job search tool, which never uses an API key.
+
+Only follow this page if you specifically want pay-per-use billing instead of a subscription.
 
 ## Get your key
 

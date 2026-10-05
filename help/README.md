@@ -1,5 +1,7 @@
 # Claude Code Setup — Start Here
 
+> **New here and not a developer?** Use [START_HERE.md](../START_HERE.md) instead. Claude walks you through it, including the job search tool. This folder is the full developer setup. For optional job search extras (Gmail, Telegram, daily runs), see [07_job_search_extras.md](07_job_search_extras.md).
+
 Welcome. This folder gives you the same Claude Code setup your friend uses — same agents, rules, hooks, and slash commands.
 
 ## Step-by-step order
@@ -7,11 +9,12 @@ Welcome. This folder gives you the same Claude Code setup your friend uses — s
 | Step | File | What it covers |
 |------|------|----------------|
 | 1 | [01_install.md](01_install.md) | Install Claude Code + run install.sh |
-| 2 | [02_api_key.md](02_api_key.md) | Get your Anthropic API key |
+| 2 | [02_api_key.md](02_api_key.md) | Only if you want pay-per-use instead of your Claude subscription |
 | 3 | [03_first_run.md](03_first_run.md) | Verify everything works |
 | 4 | [04_what_you_have.md](04_what_you_have.md) | What agents/skills/rules do |
 | 5 | [05_daily_usage.md](05_daily_usage.md) | How to actually use it every day |
 | 6 | [06_hermes.md](06_hermes.md) | Optional: Hermes autonomous agent runner |
+| 7 | [07_job_search_extras.md](07_job_search_extras.md) | Optional: Gmail sync, Telegram, daily runs for the job search tool |
 
 ## What this setup gives you
 

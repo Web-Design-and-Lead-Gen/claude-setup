@@ -418,6 +418,8 @@ It needs Python (a programming language the tool is written in). Ask "ready?" be
 
 Show them what it found, and tell them they can just say "find me jobs" any time from the job-search folder (or type /find-jobs).
 
+Mention, without setting them up now, that there are optional extras for later: Gmail sync (replies update their applications automatically), Telegram updates on their phone, a daily automatic run, and LinkedIn referral matching. They're described in `help/07_job_search_extras.md` in this repo (https://github.com/Web-Design-and-Lead-Gen/claude-setup/blob/beginner/help/07_job_search_extras.md). They haven't been tested with real accounts yet, so if they try one and it fails, Claude should read the error and fix it with them.
+
 ### Part 7: How to use it
 
 Print this cheat sheet, then save a copy to `claude-work/CHEATSHEET.md`:
